@@ -1,0 +1,4 @@
+0
+SimpleGoal:Read a scription ,speadk100,False
+EternalGoal:study,study,50
+ChecklistGoal:attend,attend,50,500,3,0
