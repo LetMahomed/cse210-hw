@@ -1,3 +1,13 @@
+
+
+/* In addition to meeting all core requirements for Simple, Eternal, and Checklist goals,
+I exceeded the assignment expectations in the following way:
+
+1. Gamification – Accumulated Points Display:
+   - The program continuously displays the user's total accumulated points at the top
+     of the menu each time it refreshes. This creates a stronger sense of progression
+     and motivation, similar to a leveling system in games. */
+
 using System;
 
 class Program
